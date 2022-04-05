@@ -1,3 +1,5 @@
+Exercises I was assigned on C Programming for the University of West Attica
+
 C-Lab-Exams
 C-1-7
 Function that counts and prints the frequency of each capital letter in a char array
